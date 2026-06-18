@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-41d22405.zappy5.app
+https://example.com
 מחפשים ניסור בטון מקצועי? חברת גבלאוי מביאה ניסיון וטכנולוגיה מתקדמת לכל פרויקט בנייה. צרו קשר עוד היום לקבלת הצעת מחיר משתלמת!
 
 ### שירותים
-https://-41d22405.zappy5.app/services
+https://example.com/services
 גלו מגוון שירותי ניסור וקידוח בטון לקבלנים: ניסור קירות, פתחים וחלונות. דיוק ללא פשרות, ליווי צמוד ותוצאות שמדברות. היכנסו לפרטים המלאים!
 
 ### אודות
-https://-41d22405.zappy5.app/about
+https://example.com/about
 גבלאוי ניסור וקידוח בטון בע&quot;מ – שנים של מצוינות בענף הבנייה. צוות מיומן, ציוד חדשני ומחויבות לבטיחות בכל פרויקט. קראו למה אנחנו הבחירה הנכונה.
 
 ### צור קשר
-https://-41d22405.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל בפרויקט? השאירו פרטים ונחזור אליכם במהירות עם הצעה מותאמת לניסור וקידוח בטון. גבלאוי – זמינים לכל שאלה, בכל שלב בדרך.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-41d22405.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-41d22405.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-41d22405.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-41d22405.zappy5.app/contact
-- Endpoint: https://-41d22405.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Construction & Concrete Cutting
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-41d22405.zappy5.app/sitemap.xml
-- Robots: https://-41d22405.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-41d22405.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
