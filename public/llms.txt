@@ -1,0 +1,82 @@
+# גבלאוי ניסור וקידוח בטון בע"מ — Generative Engine Optimization Map
+
+> Gablawi Concrete Sawing and Drilling Ltd. is a professional construction services company specializing in concrete cutting and drilling. The business operates in the construction and infrastructure sector, offering technical and specialized services typically aimed at contractors, builders, and construction project managers.
+
+---
+
+## Pages
+
+### בית
+https://-41d22405.zappy5.app
+מחפשים ניסור בטון מקצועי? חברת גבלאוי מביאה ניסיון וטכנולוגיה מתקדמת לכל פרויקט בנייה. צרו קשר עוד היום לקבלת הצעת מחיר משתלמת!
+
+### שירותים
+https://-41d22405.zappy5.app/services
+גלו מגוון שירותי ניסור וקידוח בטון לקבלנים: ניסור קירות, פתחים וחלונות. דיוק ללא פשרות, ליווי צמוד ותוצאות שמדברות. היכנסו לפרטים המלאים!
+
+### אודות
+https://-41d22405.zappy5.app/about
+גבלאוי ניסור וקידוח בטון בע&quot;מ – שנים של מצוינות בענף הבנייה. צוות מיומן, ציוד חדשני ומחויבות לבטיחות בכל פרויקט. קראו למה אנחנו הבחירה הנכונה.
+
+### צור קשר
+https://-41d22405.zappy5.app/contact
+מוכנים להתחיל בפרויקט? השאירו פרטים ונחזור אליכם במהירות עם הצעה מותאמת לניסור וקידוח בטון. גבלאוי – זמינים לכל שאלה, בכל שלב בדרך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-41d22405.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-41d22405.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-41d22405.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-41d22405.zappy5.app/contact
+- Endpoint: https://-41d22405.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גבלאוי ניסור וקידוח בטון בע"מ
+Gablawi Concrete Sawing and Drilling Ltd. is a professional construction services company specializing in concrete cutting and drilling. The business operates in the construction and infrastructure sector, offering technical and specialized services typically aimed at contractors, builders, and construction project managers.
+
+## Services/Products
+- ניסור בטון
+- קידוח בטון
+
+## Target Audience
+- מהנדסי בניין
+- חברות בנייה
+- קבלנים פרטיים
+
+## Industry
+Construction & Concrete Cutting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-41d22405.zappy5.app/sitemap.xml
+- Robots: https://-41d22405.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-41d22405.zappy5.app/llms-full.txt
