@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: gazafihassan96@gmail.com
+- Phone: +972543927886
+- Phone (tel): tel:+972543927886
+- Address: 83, תל אביב - יפו, ירושלים , 6712261, Israel
 
 ### Contact form
 - URL: https://example.com/contact
